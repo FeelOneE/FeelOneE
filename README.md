@@ -9,7 +9,7 @@
 
 ## 🎓My Papers
 * [MULTI-DOCUMENT SUMMARIZATION METHOD OF REVIEWS USING WORD EMBEDDING CLUSTERING](http://ktsde.kips.or.kr/digital-library/25127)-2021KCI
-* [Graph Merging based Open Domain Question Answering System with Repetitive Inference]
+* [Graph Merging based Open Domain Question Answering System with Repetitive Inference](https://github.com/FeelOneE/Graph-Merging-based-Open-Domain-Question-Answering-System-with-Repetitive-Inference)-M.S Thesis
 
 ## 💻My Project
 
