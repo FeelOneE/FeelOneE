@@ -6,17 +6,14 @@
 </div>   
 
 ---
-## 🏠My HomePages
-* [Tistory](https://pilwstory.tistory.com//) 
-
 
 ## 🎓My Papers
 
 
-## 🏆My Awards
+## 💻My Project
 
 
-## 📖My Studies   
+## 📖My Work   
 * [Kaggle](https://github.com/FeelOneE/Kaggle_study)
 * [Attention is all you need](https://github.com/FeelOneE/Attention-is-all-you-need-pwlee)
 * [coin price prediction](https://github.com/FeelOneE/price_prediction)
