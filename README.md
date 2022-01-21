@@ -18,8 +18,9 @@
 
 ## 📖My Studies   
 * [Kaggle_Study](https://github.com/FeelOneE/Kaggle_study)
-
-
+* [Attention is all you need](https://github.com/FeelOneE/Attention-is-all-you-need-pwlee)
+* [coin price prediction](https://github.com/FeelOneE/price_prediction)
+* [HeartAttack](https://github.com/FeelOneE/HeartAttack)
 
 
 <div align=center>
