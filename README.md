@@ -17,7 +17,7 @@
 
 
 ## 📖My Studies   
-
+* [Kaggle_Study](https://github.com/FeelOneE/Kaggle_study)
 
 
 
